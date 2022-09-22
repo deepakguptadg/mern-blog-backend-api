@@ -1,0 +1,24 @@
+------Contact Feedback-----
+
+1. Insert Feedback
+   http://localhost:4000/feedback
+
+
+2. Get Feedback By Blog ID
+   http://localhost:4000/feedback/get-feedback
+
+
+------ Blog API -------
+
+3. Get Active Blog List
+   http://localhost:4000/blog/get-blog
+
+
+4. Get Single Blog By ID
+   http://localhost:4000/blog/id
+
+
+------ Contact API -------
+
+5. Insert Contact 
+   http://localhost:4000/contact
